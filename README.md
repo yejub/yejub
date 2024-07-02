@@ -32,7 +32,9 @@
       <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api?username=yejub&theme=dark&show_icons=true" alt="bestdevmgp's GitHub stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejub&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000">
-      </div> 
+      </div>
+        <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,c,linux,aws,git,github,figma,html,css,javascript" />
     </div>
     
 
